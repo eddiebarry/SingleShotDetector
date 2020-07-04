@@ -89,4 +89,4 @@ if __name__ == "__main__":
 
     train_model(data=custom_datas, ssd=single_shot_detector, loss=criterion, \
         optimizers=tf.keras.optimizers.SGD(learning_rate=1e-4,momentum=0.9), \
-            epochs=5,grid=detector_grid)
+            epochs=2,grid=detector_grid)
