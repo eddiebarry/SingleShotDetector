@@ -8,6 +8,16 @@ https://arxiv.org/pdf/1801.04381.pdf
 
 ---
 
+For a quick dive into the project, run
+
+```
+https://github.com/eddiebarry/SingleShotDetector/blob/master/SSDLite.ipynb
+```
+
+in colab
+
+---
+
 #### Code Structure
 
 - weights
