@@ -66,6 +66,10 @@ https://arxiv.org/pdf/1801.04381.pdf
 
   ###### This file contains code for model visualisation
 
+- Finetune.py
+
+  ###### This file contains code for finetuning the model on larger images. Empirical evidence indicates that one iteration is enough for good results
+
 - img_utils.py
 
   ###### Contains neccessary functions for processing images
@@ -76,7 +80,7 @@ https://arxiv.org/pdf/1801.04381.pdf
 
 - utils.py
 
-  ######Contains misc utils suchs as NMS code. In NMS, we disregard background predictions and perform NMS only on predictions which are not labeled as the background
+  ###### Contains misc utils suchs as NMS code. In NMS, we disregard background predictions and perform NMS only on predictions which are not labeled as the background
 
 ---
 
